@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.Toast
-import com.example.cse225_kotlin_fragment.OnButtonPressListener
+import sudeep.example.androidfragments.OnButtonPressListener
 
 
 class FragmentStaticOne : Fragment() {
